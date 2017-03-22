@@ -1,3 +1,8 @@
 Originale1
+<<<<<<< HEAD
 17:15 su master
 08-03-2017 16:10
+=======
+17:15 su nuovo branch b2
+08-03-2017 16:30 [missile lanciato con successo]
+>>>>>>> b2
